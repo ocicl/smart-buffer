@@ -1,0 +1,9 @@
+* smart-buffer
+
+Smart octets buffer.
+
+|---------+---------------------------------------------------|
+| source  | git:https://github.com/fukamachi/smart-buffer.git |
+| commit  | 619759d                                           |
+| systems | smart-buffer                                      |
+|---------+---------------------------------------------------|
